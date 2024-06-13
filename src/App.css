@@ -7,10 +7,10 @@
 }
 .sidebar{
   min-height:100vh;
-  
+
 }
 .post-card{
-  margin: 20px 50px;
+  margin: 30px 30px 30px 30px;
 }
 .hashtag{
   margin: 0px 3px;
@@ -22,4 +22,15 @@
   width: 80%;
   margin-left: 10%;
   margin-top: 50px;
+}
+.card-container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.welcome-Message{
+  margin: 100px 0;
+}
+.spinner{
+  margin:10%
 }
